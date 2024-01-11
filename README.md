@@ -7,6 +7,7 @@ Nimi, ilmansuunta, Puhelinnumero
 - Esa Leppäniemi Honkakoski
 - Konetyö Rajakangas oy +358 44 2382291 jalmari.rajakangas@gmail.com
 - Matti Peltomäki 040 593 9262
+- Pentti Wanhatalo 0503271963 100klapi@gmail.com
 
 ## Talonmies ja rakennus töitä
 
